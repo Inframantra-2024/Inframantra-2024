@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Inframantra-2024
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Inframantra Website Page
 
-<!---
-Inframantra-2024/Inframantra-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Brief description of your project.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Dependencies](#dependencies)
+- [Scripts](#scripts)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed.
+
+### Installation
+
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/Divyanshu-2022/inframantra-website-main.git
